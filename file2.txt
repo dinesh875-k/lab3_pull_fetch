@@ -3,3 +3,5 @@ AIML
 CBDS
 EEE
 ECE
+hii i am dinesh
+welcome to devops
